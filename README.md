@@ -1,7 +1,7 @@
 # Fatimah's_Portfolio
 Data science portfolio for Fatimah
 
-# [Project 1: Conversion_Rate](https://github.com/Fa-ti-mah/Conversion_Rate)
+# [Conversion_Rate](https://github.com/Fa-ti-mah/Conversion_Rate)
 - Computing and Visualizating KPIs using Python
 - Conversion Rate
 - Aggregate Conversion Rate
@@ -21,3 +21,9 @@ Data science portfolio for Fatimah
 - Product Recomender System-predicting and compiling a list of items that a customer is likely to purchase
 - Collaborative Filtering - based on History of users behaviours and similarities between them
 - Understanding Customer behaviours
+
+# [Clustering](https://github.com/Fa-ti-mah/Clustering)
+- Clustering using Sickit-learn
+- Clustering from scratch
+- Visualizations using Matplotlib
+- Using Numpy Arrays
