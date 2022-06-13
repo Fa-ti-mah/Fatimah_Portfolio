@@ -27,3 +27,10 @@ Data science portfolio for Fatimah
 - Clustering from scratch
 - Visualizations using Matplotlib
 - Using Numpy Arrays
+
+# [Predicting_-Engagement](https://github.com/Fa-ti-mah/Predicting_-Engagement)
+- Predicting the likelihood of marketing engagement
+- Recommending the right products and contents
+- Customer acquisition and retention
+- Evaluation using Classisfication Models
+- Precision, Accuracy and Recall`
