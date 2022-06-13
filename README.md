@@ -1,6 +1,12 @@
 # Fatimah's_Portfolio
 Data science portfolio for Fatimah
 
+# [Logistic-Regression](https://github.com/Fa-ti-mah/Logistic-Regression)
+- Logistic Regression Model from Scratch
+- Logistic Regression Using Sickit-Learn
+- Graphical representation of Predicted and expected outcome
+- Strong level of Accuracy
+
 # [Conversion_Rate](https://github.com/Fa-ti-mah/Conversion_Rate)
 - Computing and Visualizating KPIs using Python
 - Conversion Rate
